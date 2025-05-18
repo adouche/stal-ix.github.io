@@ -1,4 +1,7 @@
 [Install instructions](INSTALL.md)
+[FS](FS.md)
+[IX](IX.md)
+[Accel](ACCEL.md)
 [Why](CASES.md)<br>
 [Blog](https://medium.com/@anton_samokhvalov)<br>
 [Design](STALIX.md)<br>
