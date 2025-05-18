@@ -9,6 +9,7 @@ This section is a work in progress. We’ll continue updating and expanding the 
 [Install instructions](INSTALL.md)<br>
 [FS](FS.md)<br>
 [IX](IX.md)<br>
+[etc](ETC.md)<br>
 [Accel](ACCEL.md)<br>
 [Why](CASES.md)<br>
 [Blog](https://medium.com/@anton_samokhvalov)<br>
