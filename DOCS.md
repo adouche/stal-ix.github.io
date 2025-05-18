@@ -2,7 +2,8 @@
 
 > Welcome to the documentation for stal/IX.<br>
 This section is a work in progress. We'll update and expand the content to ensure it stays accurate and helpful.
-> We encourage contributions to improve and expand these docs! Follow our [Documentation Style Guide](GUIDE.md).
+> We encourage contributions to improve and expand these docs!
+> Follow our [Documentation Style Guide](GUIDE.md).
 
 
 [stal/IX Documentation Style Guide](GUIDE.md)<br>
