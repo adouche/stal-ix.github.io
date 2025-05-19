@@ -10,16 +10,17 @@ This section is a work in progress. We’ll continue updating and expanding the 
 [FS](FS.md)<br>
 [IX](IX.md)<br>
 [IX standalone](IX_STANDALONE.md)<br>
+[Kernel](KERNEL.md)<br>
+[Login](LOGIN.md)<br>
 [Caveats](CAVEATS.md)<br>
 [etc](ETC.md)<br>
 [Accel](ACCEL.md)<br>
 [GRUB](GRUB.md)<br>
-
+[PKG](PKG.md)<br>
+[WIFI](WIFI.md)<br>
 
 
 [Why](CASES.md)<br>
-[Blog](https://medium.com/@anton_samokhvalov)<br>
 [Design](STALIX.md)<br>
-[Support](https://t.me/stal_ix)<br>
-[Download](https://github.com/stal-ix/ix)<br>
 [Add a mirror](MIRROR.md)<br>
+[Interaction with upstream](UPSTREAM.md)<br>
