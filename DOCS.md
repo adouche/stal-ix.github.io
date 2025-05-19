@@ -5,10 +5,8 @@ This section is a work in progress. We’ll continue updating and expanding the 
 > Contributions are welcome—please follow our [Documentation Style Guide](GUIDE.md) for consistency.
 
 #### [Why](CASES.md) you should try IX<br>
-
+#### [Design](STALIX.md)<br>
 _______
-
-
 
 
 [stal/IX Documentation Style Guide](GUIDE.md)<br>
@@ -24,10 +22,7 @@ _______
 [GRUB](GRUB.md)<br>
 [PKG](PKG.md)<br>
 [WIFI](WIFI.md)<br>
-
-
-
-
-[Design](STALIX.md)<br>
 [Add a mirror](MIRROR.md)<br>
+
+_____
 [Interaction with upstream](UPSTREAM.md)<br>
