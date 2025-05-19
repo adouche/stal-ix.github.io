@@ -4,6 +4,10 @@
 This section is a work in progress. We’ll continue updating and expanding the content to ensure accuracy and usefulness.
 > Contributions are welcome—please follow our [Documentation Style Guide](GUIDE.md) for consistency.
 
+#### [Why](CASES.md) you should try IX<br>
+
+
+
 
 [stal/IX Documentation Style Guide](GUIDE.md)<br>
 [Install instructions](INSTALL.md)<br>
@@ -20,7 +24,8 @@ This section is a work in progress. We’ll continue updating and expanding the 
 [WIFI](WIFI.md)<br>
 
 
-[Why](CASES.md)<br>
+
+
 [Design](STALIX.md)<br>
 [Add a mirror](MIRROR.md)<br>
 [Interaction with upstream](UPSTREAM.md)<br>
